@@ -1,7 +1,7 @@
 # Bachelor final project
-title: AI reliance appropriateness in AI-assisted decision-making
+topic: AI reliance appropriateness in AI-assisted decision-making
 
-Overview 
+## Overview 
 
 - experiment_interface.zip: The experiment interface used by participants.
 - data_preprocess.py: This python file loops through all participant folders, computes variables (eye-tracking metrics, reaction times, etc.), cleans and organizes the data.
