@@ -1,4 +1,4 @@
-# Final_project
+# Project_bachelorfinal
 Bachlor final project: AI reliance appropriateness in AI-assisted decision-making
 
 Overview 
